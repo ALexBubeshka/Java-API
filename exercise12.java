@@ -2,7 +2,6 @@
 // Найти общий префикс среди слов из одного массива.
 // ["aaa", "aab", "aa"] -> "aa", ["abc", "bca", "cda"] -> ""
 
-
 public class exercise12 {
       public static void main(String[] args) {
             String[] array = {"aaa", "aab", "aa"};
